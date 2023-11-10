@@ -1,0 +1,3 @@
+Hello, world!
+This is a sample text with some words.
+Python programming is fun!
